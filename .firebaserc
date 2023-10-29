@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "calendar-buddy-bfdf1",
+    "prod": "calendar-buddy-prod"
+  },
+  "targets": {},
+  "etags": {}
+}
